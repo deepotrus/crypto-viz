@@ -1,8 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-pip install tvdatafeed
-from tvDatafeed import TvDatafeed, Interval
+from tvdatafeed import TvDatafeed, Interval
 
 from bokeh.plotting import figure, show, output_file
 from bokeh.io import output_notebook
