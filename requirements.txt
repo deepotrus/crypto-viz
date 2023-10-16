@@ -1,3 +1,3 @@
 streamlit
 pandas
-git+https://github.com/dewkul/tvDatafeed
+git+https://github.com/rongardF/tvDatafeed
